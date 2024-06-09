@@ -7,9 +7,8 @@
  - Provides task editing functionality.
  - Features a simple and intuitive user interface.
 
-**Tools** : Javascript |   |  |  |  
 
-Technical Stack:
+## Technical Stack:
 
 **Backend:** javascribt, Express.js, Mongoose
 **Frontend:** EJS (Embedded JavaScript), HTML, CSS,  Bootstrap
