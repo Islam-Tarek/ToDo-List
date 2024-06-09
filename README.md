@@ -10,6 +10,6 @@
 
 ## Technical Stack:
 
-**Backend:** javascribt, Express.js, Mongoose
-**Frontend:** EJS (Embedded JavaScript), HTML, CSS,  Bootstrap
-**Database:** MongoDB
+ - **Backend:** javascribt, Express.js, Mongoose
+ - **Frontend:** EJS (Embedded JavaScript), HTML, CSS,  Bootstrap
+ - **Database:** MongoDB
